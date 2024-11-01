@@ -1,7 +1,7 @@
 # TodoDragAndDrop
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.<br>
-This project was done following the guide of [App Presupuestp](https://www.youtube.com/watch?v=JsNMnXD-NRM)
+This project was done following the guide of [Drag And Drop](https://www.youtube.com/watch?v=63GyTDDZHsE)
 
 ## Development server
 
